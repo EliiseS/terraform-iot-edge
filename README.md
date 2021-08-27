@@ -11,7 +11,7 @@ Terraform template to provision an IoT Edge enabled virtual machine, IoT Hub, Io
 3. Apply terraform
 
     ```bash
-    cd terraform-dps/
+    cd terraform/
     apply terraform
     ```
 
